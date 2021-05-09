@@ -1,0 +1,7 @@
+*.swp
+*.diff
+*.vi
+*~
+.vscode/
+.git/
+
